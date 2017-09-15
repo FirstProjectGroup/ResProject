@@ -1,9 +1,31 @@
+
+
+Res Report
+
+
+
+
+
 1. Content
 It is divided into three parts:
-¡¤Customer
-¡¤Admin
-¡¤Worker
+Customer
+Admin
+Worker
 
 1.Customer:
+
+Pickup and Delivery 
+
+First case:Customer needs to sign up, and then sign in. After sign in then they can make order.
+Second case:Customer directly make an order. 
+
+
 2.Admin:
+Add /Delete/Edit products and price
+
+
 3.Worker:
+They can look at the order and time separately.
+Function:
+1.Check order means the order complete
+2.At bottom shows the amount of different dishes 
